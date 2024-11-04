@@ -29,6 +29,9 @@ age_net.caffemodel
 gender_deploy.prototxt  
 gender_net.caffemodel  
 
+# Download the model files here:
+https://drive.google.com/drive/folders/1PWiSUg4tC_atEhNTIhlL2fJhQsCMVvzE?usp=sharing&pli=1  
+
 # Requirements
 Python 3.7+   
 A webcam for real-time detection  
