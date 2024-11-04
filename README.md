@@ -29,7 +29,7 @@ age_net.caffemodel
 gender_deploy.prototxt  
 gender_net.caffemodel  
 
-# Download the model files here:
+# If you are looking for the model files, you can click the link below to download them:
 https://drive.google.com/drive/folders/1PWiSUg4tC_atEhNTIhlL2fJhQsCMVvzE?usp=sharing&pli=1  
 
 # Requirements
